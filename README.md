@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Amir Uddin
-- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
