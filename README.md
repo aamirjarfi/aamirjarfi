@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Amir Uddin
-- 🌱 I’m currently learning Python
--  trying to be  ethacker
+-
+- 🌱 I’m currently learning Html and css
+
